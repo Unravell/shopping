@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdcd85c7-f892-4aa0-a8d5-1ac30475ad61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cart.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/cart.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/common.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/products.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/registration.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/single.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/special-sale.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/ab3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/ab4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/ab5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/banner33.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bs1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/cart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/do.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/remen_18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/s1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/s2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/s3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/s4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript/cart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript/products.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript/single.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javascript/wichung-1.0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/offset.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/products.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/registration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shopping/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/single.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/special-sale.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/动画.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多元素拖拽.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/拖拽.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/放大镜/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/放大镜/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/放大镜/放大镜.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bdcd85c7-f892-4aa0-a8d5-1ac30475ad61" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -61,20 +11,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cart.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/cart.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,30 +40,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="shopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../小店" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\小店\shopping" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,12 +76,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521179535654</updated>
       <workItem from="1521179537186" duration="142000" />
-      <workItem from="1521975053364" duration="40000" />
+      <workItem from="1521974937867" duration="114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182000" />
+    <option name="totallyTimeSpent" value="256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -193,15 +114,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/cart.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
